@@ -1,23 +1,23 @@
 # UNE PILE 
- est un structure de données qui permet de stocker des données. Appelé aussi LIFO( Last - In - First - Out).
- est une structure dans laquelle le dernière élement enregistre devient le premier à sortie de la pile.
- Il faut le voir comme une pile d'acciète enpiler les un à la suite des autres.
+ C'est une structure de données permettant de stocker des données. Aussi appelé LIFO (Last-In, First-Out).
+ C'est une structure dans laquelle le dernier élément enregistré devient le premier à sortir de la pile.
+ Il faut le voir comme une pile d'assiettes empilées les unes à la suite des autres.
 
-## FONCTIONS POSSILE : 
+## FONCTIONS POSSIBLES : 
 1. Tester si la pile est vide
-2. Inserer un élement dans la pile (**empiler**)
-3. Récuperer un élemennt en haut de la pile (**deplier**)
-4. Supprimer l'élement en haut de la pile
+2. Insérer un élément dans la pile (**empiler**)
+3. Récupérer un élément en haut de la pile (**déplier**)
+4. Supprimer l'élément en haut de la pile
 5. Vider la pile 
 
 ## TYPE DE PILE 
-- Pile contigue : créer avec un tableau static 
+- Pile contiguë : créer avec un tableau statique 
     ```bash 
     STRUCTURE tStack
         content : T[n]
         top     : entier
     ```
-- Pile dynamique : créer avec des liste 
+- Pile dynamique : créer avec des listes 
     ```shell
         STRUCTURE tStack
             data    : liste
@@ -25,7 +25,7 @@
     ```
 ## STRUCTURE 
         ______
-        |__*__|<--- top de la pile 
+        |__*__|<--- top (sommet de la pile)
         |_____|
         |_____|
         |_____|
