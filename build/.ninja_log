@@ -1,0 +1,7 @@
+# ninja log v5
+6	72	8167996716653557	CMakeFiles/lifo.dir/src/pile_dynamic.c.obj	1e0d4cc993934994
+3	64	8168021449826318	CMakeFiles/lifo.dir/src/main.c.obj	2fd7265ea63c0810
+6	71	8168014839886032	CMakeFiles/lifo.dir/src/pile_static.c.obj	126ec8b7dc5e3595
+65	176	8168021450885394	lifo.exe	941a407b32eb787d
+3	68	8168021680374543	CMakeFiles/lifo.dir/src/main.c.obj	2fd7265ea63c0810
+68	166	8168021681309733	lifo.exe	941a407b32eb787d

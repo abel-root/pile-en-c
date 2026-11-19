@@ -1,0 +1,3 @@
+C:/Users/Utilisateur/Documents/Trainning/codes/c_cpp/pj2_pile/build/CMakeFiles/lifo.dir
+C:/Users/Utilisateur/Documents/Trainning/codes/c_cpp/pj2_pile/build/CMakeFiles/edit_cache.dir
+C:/Users/Utilisateur/Documents/Trainning/codes/c_cpp/pj2_pile/build/CMakeFiles/rebuild_cache.dir
